@@ -29,10 +29,12 @@ int main() {
                 return 1;  // Exit with an error code
             }
             break;
+        
         default:
             printf("Error: Invalid operator\n");
             return 1;  // Exit with an error code
     }
+
     
 
     printf("Result: %lf\n", result);
