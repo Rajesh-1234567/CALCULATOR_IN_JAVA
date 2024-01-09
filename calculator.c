@@ -38,6 +38,7 @@ int main() {
     
 
     printf("Result: %lf\n", result);
+    
 
     return 0;
 }
